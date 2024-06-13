@@ -1,0 +1,28 @@
+.main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.input {
+  font-size: 2rem;
+  margin: 0 1rem;
+  line-height: 20px;
+  line-height: 20px;
+  border: 1px solid #cfcfcf;
+  padding: 0.5rem 1rem;
+  border-radius: 8px;
+  color: #797676;
+}
+
+.button {
+  padding: 0.5rem 1rem;
+  margin: 0 1rem;
+  font-size: 1rem;
+  cursor: pointer;
+  border: 1px solid #cfcfcf;
+  background-color: #f0f0f0;
+  height: 3rem;
+  border-radius: 8px;
+}
